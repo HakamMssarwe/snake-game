@@ -4,6 +4,8 @@ Thought I'd test my javascript skills and create a snake-game without watching a
 
 Here is the result!
 
+[snake-game](https://gm5sk.csb.app/)
+
 ## Things I learned
 
 1. How to better minipulate the dom with javascript
